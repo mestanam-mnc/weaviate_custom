@@ -1,0 +1,3 @@
+[submodule "kagome-ko/github.com/ikawaha/kagome-dict-ko"]
+	path = kagome-ko/github.com/ikawaha/kagome-dict-ko
+	url = https://github.com/mestanam-mnc/kagome-dict-ko_custom.git
