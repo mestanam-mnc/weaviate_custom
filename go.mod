@@ -1,5 +1,7 @@
 module github.com/weaviate/weaviate
 
+replace github.com/ikawaha/kagome-dict-ko => ./kagome-ko/github.com/ikawaha/kagome-dict-ko
+
 require (
 	cloud.google.com/go/storage v1.54.0
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.18.0
